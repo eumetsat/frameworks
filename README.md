@@ -1,5 +1,13 @@
 # frameworks
 
+<hr>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
+[![EUMETSAT GitHub](https://img.shields.io/badge/github-eumetsat-blue?logo=github)](https://github.com/eumetsat/frameworks)
+[![USER PORTAL](https://img.shields.io/badge/open-USER%20PORTAL-154360.svg)](https://user.eumetsat.int/data/themes/marine)
+
+## Overview
+
 Repository containing common content for all ocean courses; e.g. images and configuration files.
 
 ## License
