@@ -10,7 +10,7 @@ All product names, logos, and brands are property of their respective owners. Al
 
 ## Authors
 
-* [**Ben Loveday**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
+* [**Ben Evers-Loveday**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Hayley Evers-King**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Antonio Vecoli**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Gwenaël Le Bras**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
