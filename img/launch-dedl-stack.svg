@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="28" viewBox="0 0 190 28" role="img" aria-label="Launch DEDL STACK">
+  <title>Launch DEDL STACK</title>
+  <defs>
+    <linearGradient id="shine" x2="0" y2="100%">
+      <stop offset="0" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#000" stop-opacity=".10"/>
+    </linearGradient>
+    <clipPath id="badge-clip"><rect x="2" y="4" width="186" height="20" rx="3"/></clipPath>
+  </defs>
+  <g clip-path="url(#badge-clip)">
+    <rect x="2" y="4" width="97" height="20" fill="#555"/>
+    <rect x="99" y="4" width="89" height="20" fill="#075B88"/>
+
+    <!-- Compact Data Lake/network mark, fully contained in the left segment -->
+    <g transform="translate(8 7)">
+      <g fill="none" stroke="#13B9E8" stroke-width=".9" stroke-linecap="round">
+        <path d="M4 3V1.5M11 3V1.5M18 3V1.5M4 12v1.5M11 12v1.5M18 12v1.5"/>
+        <path d="M4 1.5h14M4 13.5h14"/>
+      </g>
+      <rect x="1" y="3" width="20" height="9" rx="4.5" fill="#07518A" stroke="#12B9E7" stroke-width="1"/>
+      <g fill="#0B6BA5" stroke="#52C9E8" stroke-width=".65">
+        <path d="M5 7.5 11 5.5 17 7.5 11 10Z" fill="none"/>
+        <circle cx="5" cy="7.5" r="1.5"/><circle cx="11" cy="5.5" r="1.5"/>
+        <circle cx="17" cy="7.5" r="1.5"/><circle cx="11" cy="10" r="1.5"/>
+      </g>
+      <circle cx="11" cy="7.5" r="1" fill="#16D2EE"/>
+    </g>
+
+    <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" fill="#fff">
+      <text x="62" y="17.5" text-anchor="middle">launch</text>
+      <text x="143.5" y="17.5" text-anchor="middle" font-weight="bold">DEDL STACK</text>
+    </g>
+    <rect x="2" y="4" width="186" height="20" fill="url(#shine)"/>
+    <path d="M2 23h186v1H2z" fill="#000" fill-opacity=".16"/>
+  </g>
+</svg>
