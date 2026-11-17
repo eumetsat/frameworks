@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="64" viewBox="0 0 420 64" role="img" aria-labelledby="title desc">
+  <title id="title">Open User Portal</title>
+  <desc id="desc">A rounded badge with a white stylised EUMETSAT-inspired emblem and Open on a charcoal panel, followed by User Portal on a navy panel.</desc>
+  <defs>
+    <clipPath id="badge-clip"><rect x="2" y="2" width="416" height="60" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#badge-clip)">
+    <rect x="2" y="2" width="186" height="60" fill="#414141"/>
+    <rect x="188" y="2" width="230" height="60" fill="#062b5b"/>
+    <!-- stylised emblem -->
+    <path d="M43 14c-11 0-20 8-20 19s9 19 20 19c5 0 10-2 13-5H39l9-7h12l4-6H45l8-7h12c-4-8-12-13-22-13z" fill="#fff"/>
+    <path d="M47 29h22l-3 5H44zM41 43h25l-4 5H35z" fill="#fff"/>
+    <path d="M82 14v36" stroke="#d8d8d8" stroke-width="1"/>
+    <text x="99" y="41" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">Open</text>
+    <text x="211" y="41" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">User Portal</text>
+  </g>
+</svg>
